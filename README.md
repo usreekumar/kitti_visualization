@@ -17,3 +17,10 @@ Script for visualizing the image data in KITTI multi-object tracking dataset
 
 -----------------------------------------------------------------------------
 
+### Sample Output   
+
+![image](https://user-images.githubusercontent.com/53832776/71682802-b8720780-2db6-11ea-8381-c2fd44332a8a.png)
+
+NB : Colour of bounding box corresponds to a particular class of object. 
+
+
