@@ -6,16 +6,6 @@
 # 'training', which in turn contains 'image_02', 'label_02' and 'calib'.
 
 
-#  Usage:
-#    SPACE: next frame
-#    '-':   last frame
-#    'x':   +50 frames
-#    'y':   -50 frames
-#    'c':   previous sequence
-#    'v':   next sequence
-#     q:     quit
-
-
 import numpy as np
 from numpy import array 
 import cv2 
